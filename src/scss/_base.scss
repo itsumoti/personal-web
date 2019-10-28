@@ -1,0 +1,12 @@
+@import 'variables.scss';
+body {
+    background-color: $bg-sections-primary;
+}
+
+a {
+    color: $primary-text-color;
+}
+
+a:hover {
+    color: $secondary-text-color;
+}

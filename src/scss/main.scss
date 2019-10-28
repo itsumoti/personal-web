@@ -1,0 +1,13 @@
+// Semua Komponen Bootstrap
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+// Setting warna yang dipake di website
+@import 'variables.scss';
+// layout website
+@import 'navbar.scss';
+@import 'header.scss';
+@import 'sections.scss';
+@import 'footer.scss';
+// Dasar Website seperti margin padding dll
+@import 'base.scss';
+// Komponen seperti Button, Link dll
+@import 'components.scss';
